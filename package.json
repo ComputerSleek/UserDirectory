@@ -1,0 +1,25 @@
+{
+  "name": "UserDirectory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComputerSleek/UserDirectory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComputerSleek/UserDirectory/issues"
+  },
+  "homepage": "https://github.com/ComputerSleek/UserDirectory#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "react": "^17.0.2"
+  }
+}
