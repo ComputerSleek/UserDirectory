@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "http://ComputerSleek.github.io/UserDirectory"
+  "homepage": "http://ComputerSleek.github.io/UserDirectory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
